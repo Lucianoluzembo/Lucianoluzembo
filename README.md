@@ -67,7 +67,7 @@ int main(void)
 <p>
   <img 
     align="left" 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=lucianoluzembo&show_icons=true&theme=dark&locale=en&layout=compact&langs_count=8&exclude_repo=frontbox,chocolife,championsbarbershop,xPlace&hide=html" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianoluzembo&layout=compact&theme=dark" 
     alt="lucianoluzembo" 
   />
 </p>
@@ -75,7 +75,7 @@ int main(void)
 <p>
   <img 
     align="center" 
-    src="https://github-readme-stats.vercel.app/api?username=lucianoluzembo&show_icons=true&theme=dark&locale=en&text_bold=true" 
+    src="https://github-readme-stats.vercel.app/api/?username=lucianoluzembo&show_icons=true&theme=dark" 
     alt="lucianoluzembo" 
   />
 </p>
