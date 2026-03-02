@@ -68,7 +68,7 @@ int main(void)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=edge07chaos&show_icons=true&theme=dark&locale=en&text_bold=true" alt="edge07chaos" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=edge07chaos&theme=dark" alt="edge07chaos"/></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucianoluzembo&theme=dark" alt="lucianoluzembo"/></p>
 
 ## Contact
 
