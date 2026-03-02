@@ -73,7 +73,7 @@ int main(void)
 ## Contact
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luciano-luzembo-230aa7360/)](https://www.linkedin.com/in/luciano-luzembo-230aa7360/)
-[![Gmail Badge](https://img.shields.io/badge/-misterjs24700@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:misterjs247000@gmail.com)](mailto:misterjs247000@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-misterjs24700@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucianoluzembo@gmail.com)](mailto:lucianoluzembo@gmail.com)
 
 <!--
 **edge07chaos/edge07chaos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
