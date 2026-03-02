@@ -1,6 +1,6 @@
-### Hi, I'm Fábio <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" >
+### Hi, I'm Luciano <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" >
 
-I'm a Software Engineer. My specialty is developing **Android and iOS Mobile Apps with React Native**. <br>
+I'm a Software Engineer. My specialty is developing **Web and Destok Aplications**. <br>
 I also have knowledge in Backend development with **Laravel**.
 
 📚 I am currently taking the Common Core (42-cursus) at School 42<br>
@@ -8,10 +8,21 @@ I also have knowledge in Backend development with **Laravel**.
 ## This is me as a code
 
 ```c
+/* ************************************************************************** */
+/*                                                                            */
+/*                                                        :::      ::::::::   */
+/*   promise.c                                          :+:      :+:    :+:   */
+/*                                                    +:+ +:+         +:+     */
+/*   By: lluzembo <marvin@42.fr>                    +#+  +:+       +#+        */
+/*                                                +#+#+#+#+#+   +#+           */
+/*   Created: 2026/03/02 17:14:35 by lluzembo          #+#    #+#             */
+/*   Updated: 2026/03/02 17:17:03 by lluzembo         ###   ########.fr       */
+/*                                                                            */
+/* ************************************************************************** */
+
 #include <unistd.h>
 
-size_t
-ft_strlen(const char *s)
+size_t ft_strlen(const char *s)
 {
     if (!s) return 0;
     size_t i = 0;
@@ -19,11 +30,14 @@ ft_strlen(const char *s)
     return i;
 }
 
-int
-main(void)
+int main(void)
 {
-	char *slogan = "I will never give up\n";
-	write(1, slogan, ft_strlen(slogan));
+	char	*promise = "I will be champion onde day\n";
+	char	*repeat = "I promise👌\n";
+
+	write(1, promise, ft_strlen(promise));
+	for(int i = 0; i < 2; i++)
+		write(1, repeat, ft_strlen(repeat));
 	return (0);
 }
 ```
