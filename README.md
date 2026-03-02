@@ -64,9 +64,21 @@ int main(void)
 
 ## These are my Github´s stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=edge07chaos&show_icons=true&theme=dark&locale=en&layout=compact&langs_count=8&exclude_repo=frontbox,chocolife,championsbarbershop,xPlace&hide=html" alt="lucianoluzembo" /></p>
+<p>
+  <img 
+    align="left" 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=lucianoluzembo&show_icons=true&theme=dark&locale=en&layout=compact&langs_count=8&exclude_repo=frontbox,chocolife,championsbarbershop,xPlace&hide=html" 
+    alt="lucianoluzembo" 
+  />
+</p>
 
-
+<p>
+  <img 
+    align="center" 
+    src="https://github-readme-stats.vercel.app/api?username=lucianoluzembo&show_icons=true&theme=dark&locale=en&text_bold=true" 
+    alt="lucianoluzembo" 
+  />
+</p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucianoluzembo&theme=dark" alt="lucianoluzembo"/></p>
 
