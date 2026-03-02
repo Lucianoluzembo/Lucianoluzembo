@@ -49,15 +49,15 @@ int main(void)
 ![Shell](https://img.shields.io/badge/shell-0D1117.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Git](https://img.shields.io/badge/git-0D1117.svg?style=for-the-badge&logo=git&logoColor=F5942C)
 ![Github](https://img.shields.io/badge/github-0D1117.svg?style=for-the-badge&logo=github&logoColor=white)
-//![Docker](https://img.shields.io/badge/docker-0D1117.svg?style=for-the-badge&logo=docker&logoColor=4C8CD5)
-//![NGINX](https://img.shields.io/badge/nginx-0D1117.svg?style=for-the-badge&logo=nginx&logoColor=green)
-//![PHP](https://img.shields.io/badge/php-0D1117.svg?style=for-the-badge&logo=php&logoColor=9445FC)
-//![TypeScript](https://img.shields.io/badge/typescript-0D1117.svg?style=for-the-badge&logo=typescript&logoColor=3893F5)
+<!-- ![Docker](https://img.shields.io/badge/docker-0D1117.svg?style=for-the-badge&logo=docker&logoColor=4C8CD5) -->
+<!-- ![NGINX](https://img.shields.io/badge/nginx-0D1117.svg?style=for-the-badge&logo=nginx&logoColor=green) -->
+<!-- ![PHP](https://img.shields.io/badge/php-0D1117.svg?style=for-the-badge&logo=php&logoColor=9445FC) -->
+<!-- ![TypeScript](https://img.shields.io/badge/typescript-0D1117.svg?style=for-the-badge&logo=typescript&logoColor=3893F5) -->
 ![Laravel](https://img.shields.io/badge/Laravel-0D1117.svg?style=for-the-badge&logo=laravel&logoColor=#f54d3a)
-//![Tailwind-css](https://img.shields.io/badge/tailwindcss-0D1117.svg?style=for-the-badge&logo=tailwindcss&logoColor=3893F5)
-//![ReactJs](https://img.shields.io/badge/react-0D1117.svg?style=for-the-badge&logo=react&logoColor=4C8CD5)
+<!-- ![Tailwind-css](https://img.shields.io/badge/tailwindcss-0D1117.svg?style=for-the-badge&logo=tailwindcss&logoColor=3893F5) -->
+<!-- ![ReactJs](https://img.shields.io/badge/react-0D1117.svg?style=for-the-badge&logo=react&logoColor=4C8CD5) -->
 ![HTML5](https://img.shields.io/badge/html5-0D1117.svg?style=for-the-badge&logo=html5&logoColor=#ff4c1e)
-// [![React Native](https://img.shields.io/badge/RN-0D1117.svg?style=for-the-badge&logo=react&logoColor=4C8CD5)](url)
+<!-- [![React Native](https://img.shields.io/badge/RN-0D1117.svg?style=for-the-badge&logo=react&logoColor=4C8CD5)](url) -->
 ![Linux](https://img.shields.io/badge/linux-0D1117.svg?style=for-the-badge&logo=linux&logoColor=#f1c604)
 ![Markdown](https://img.shields.io/badge/markdown-0D1117.svg?style=for-the-badge&logo=markdown&logoColor=white)
 <br>
