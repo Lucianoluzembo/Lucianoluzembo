@@ -64,7 +64,7 @@ int main(void)
 
 ## These are my Github´s stats
 
-<p>
+<!--<p>
   <img 
     align="left" 
     src="https://github-readme-stats-eight.vercel.app/api/top-langs/?username=lucianoluzembo&layout=compact&theme=dark" 
@@ -79,7 +79,10 @@ int main(void)
   />
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucianoluzembo&theme=dark" alt="lucianoluzembo"/></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucianoluzembo&theme=dark" alt="lucianoluzembo"/></p>-->
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Lucianoluzembo&show_icons=true&theme=gruvbox)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=Lucianoluzembo&theme=gruvbox)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Lucianoluzembo&layout=compact&theme=gruvbox)
 
 ## Contact
 
