@@ -67,15 +67,14 @@ int main(void)
 <p>
   <img 
     align="left" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianoluzembo&layout=compact&theme=dark" 
+    src="https://github-readme-stats-eight.vercel.app/api/top-langs/?username=lucianoluzembo&layout=compact&theme=dark" 
     alt="lucianoluzembo" 
   />
 </p>
-
 <p>
   <img 
     align="center" 
-    src="https://github-readme-stats.vercel.app/api/?username=lucianoluzembo&show_icons=true&theme=dark" 
+    src="https://github-readme-stats-eight.vercel.app/api/?username=lucianoluzembo&show_icons=true&theme=dark" 
     alt="lucianoluzembo" 
   />
 </p>
