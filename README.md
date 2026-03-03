@@ -53,6 +53,7 @@ int main(void)
 ![HTML5](https://img.shields.io/badge/html5-0D1117.svg?style=for-the-badge&logo=html5&logoColor=#ff4c1e)
 ![Linux](https://img.shields.io/badge/linux-0D1117.svg?style=for-the-badge&logo=linux&logoColor=#f1c604)
 ![Markdown](https://img.shields.io/badge/markdown-0D1117.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 <!-- ![Docker](https://img.shields.io/badge/docker-0D1117.svg?style=for-the-badge&logo=docker&logoColor=4C8CD5) -->
 <!-- ![NGINX](https://img.shields.io/badge/nginx-0D1117.svg?style=for-the-badge&logo=nginx&logoColor=green) -->
 <!-- ![PHP](https://img.shields.io/badge/php-0D1117.svg?style=for-the-badge&logo=php&logoColor=9445FC) -->
