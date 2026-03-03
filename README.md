@@ -67,7 +67,7 @@ int main(void)
 <!--<p>
   <img 
     align="left" 
-    src="https://github-readme-stats-eight.vercel.app/api/top-langs/?username=lucianoluzembo&layout=compact&theme=dark" 
+    src="https://github-readme-stats-eight.vercel.app/api/top-langs/?username=lucianoluzembo&layout=compact&theme=dark"
     alt="lucianoluzembo" 
   />
 </p>
