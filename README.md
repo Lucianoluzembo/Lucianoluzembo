@@ -54,6 +54,7 @@ int main(void)
 ![Linux](https://img.shields.io/badge/linux-0D1117.svg?style=for-the-badge&logo=linux&logoColor=#f1c604)
 ![Markdown](https://img.shields.io/badge/markdown-0D1117.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-CC2927.svg?style=for-the-badge&logo=database&logoColor=white)
 <!-- ![Docker](https://img.shields.io/badge/docker-0D1117.svg?style=for-the-badge&logo=docker&logoColor=4C8CD5) -->
 <!-- ![NGINX](https://img.shields.io/badge/nginx-0D1117.svg?style=for-the-badge&logo=nginx&logoColor=green) -->
 <!-- ![PHP](https://img.shields.io/badge/php-0D1117.svg?style=for-the-badge&logo=php&logoColor=9445FC) -->
@@ -62,7 +63,6 @@ int main(void)
 <!-- ![ReactJs](https://img.shields.io/badge/react-0D1117.svg?style=for-the-badge&logo=react&logoColor=4C8CD5) -->
 <!-- [![React Native](https://img.shields.io/badge/RN-0D1117.svg?style=for-the-badge&logo=react&logoColor=4C8CD5)](url) -->
 <br>
-
 ## These are my Github´s stats
 
 <!--<p>
