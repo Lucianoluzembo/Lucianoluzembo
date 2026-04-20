@@ -32,7 +32,7 @@ size_t ft_strlen(const char *s)
 
 int main(void)
 {
-	char	*promise = "I will be champion onde day\n";
+	char	*promise = "I will be champion one day\n";
 	char	*repeat = "I promise👌\n";
 
 	write(1, promise, ft_strlen(promise));
