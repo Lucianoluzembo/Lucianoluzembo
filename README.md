@@ -1,6 +1,6 @@
 ### Hi, I'm Luciano <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" >
 
-I'm a Software Engineer. My specialty is developing **Web and Destok Aplications**. <br>
+I'm a Software Engineer. My specialty is developing **Web and Desktop Aplications**. <br>
 I also have knowledge in Backend development with **Laravel**.
 
 📚 I am currently taking the Common Core (42-cursus) at School 42<br>
