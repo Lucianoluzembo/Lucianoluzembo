@@ -5,7 +5,7 @@ I also have knowledge in Backend development with **Laravel**.
 
 📚 I am currently taking the Common Core (42-cursus) at School 42<br>
 
-## This is me as a code
+## This is me as a code 
 
 ```c
 /* ************************************************************************** */
