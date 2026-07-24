@@ -84,7 +84,7 @@ int main(void)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucianoluzembo&theme=dark" alt="lucianoluzembo"/></p>-->
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Lucianoluzembo&show_icons=true&theme=gruvbox)
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=Lucianoluzembo&theme=gruvbox)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Lucianoluzembo&layout=compact&theme=gruvbox)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Lucianoluzembo&layout=compact&theme=dracula)
 
 ## Contact
 
