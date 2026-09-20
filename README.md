@@ -86,6 +86,8 @@ int main(void)
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=Lucianoluzembo&theme=dracula)
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Lucianoluzembo&layout=compact&theme=dracula)
 
+ <h2 align="center">🌃 Contribution Skyline</h2> <p align="center"> <img src="https://raw.githubusercontent.com/nongoantonio/Lucianoluzembo/main/profile-3d-contrib/profile-night-green.svg" alt="3D skyline visualization of GitHub contributions" /> </p> 
+
 ## Contact
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luciano-luzembo-230aa7360/)](https://www.linkedin.com/in/luciano-luzembo-230aa7360/)
